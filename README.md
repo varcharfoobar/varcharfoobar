@@ -1,5 +1,5 @@
 - 👋 Hello there, I’m Berk!
-- 👀 I’m interested in iOS app development and L2/L3 networking topologies.
+- 👀 I’m interested in iOS app development and L2/L3 computer networking.
 - 🌱 I’m currently learning Swift UI.
 
 <!---
