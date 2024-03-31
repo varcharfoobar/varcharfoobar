@@ -1,5 +1,5 @@
 - 👋 Hello there!
-- 🌱 I'm currently working on mobile app development.
+- 📱 I'm currently working on mobile app development.
 
 <!---
 berkiyo/berkiyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
